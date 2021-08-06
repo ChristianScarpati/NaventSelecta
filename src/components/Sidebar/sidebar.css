@@ -1,0 +1,39 @@
+div {
+  transition: width 1s;
+}
+.container {
+  z-index: 100;
+  top: 0px;
+  padding-bottom: 200px;
+  padding-top: 80px;
+  margin-bottom: 300px;
+  height: 100%;
+  position: fixed;
+  width: 35px;
+  background-color: black;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.container:hover {
+  width: 240px;
+  background-color: #1890ff;
+}
+.diviconoytitulo {
+  display: flex;
+  flex-direction: row;
+  font-size: 14px;
+  color: white;
+}
+
+.diviconoytitulo > h1 {
+  color: white;
+}
+
+.titulo {
+  vertical-align: center;
+  padding-left: 7px;
+  color: white;
+}
