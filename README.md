@@ -20,6 +20,11 @@ Se utilizó ***SCRUM*** como metodología para el trabajo en equipo.
  - **`Firebase`**
  - **`Material UI`**
 
+### User & Password
+- plataforma5navent@gmail.com
+- P5Navent5 ---> pass
+
+
 ## *Integrantes:*
  - **[Richard Alves](https://www.linkedin.com/in/richardalvesdoprado/)**
  - **[Julian Ianni](https://www.linkedin.com/in/julian-ianni89/)**
